@@ -1,1 +1,2 @@
-#texto agregado al archivo README.ms y lista para ser usado
+#texto agregado al archivo README.md
+
