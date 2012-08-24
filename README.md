@@ -2,4 +2,6 @@
 
 -primera lista
 	item1
+<hr>
+<imput type="text" name="isa" value=""/>
 
